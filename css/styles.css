@@ -1,0 +1,165 @@
+.body{
+  font-family: 'Hind Siliguri', sans-serif;
+  text-align: center;
+}
+
+.container-fluid{
+  padding: 7% 10% 9%;
+  text-align: center;
+}
+
+.colored{
+  background-color: #c8d5b9;
+}
+
+
+/* Title Section */
+
+#title{
+  text-align: center;
+}
+
+#title .container-fluid{
+  padding: 2% 10% 190px;
+}
+
+.big-heading{
+  font-family: 'Chewy', cursive;
+  font-size: 9rem;
+  color: #68b0ab;
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+
+.slogan{
+  font-family: 'Hind Siliguri', sans-serif;
+  color: #fff;
+}
+
+/* Navbar */
+
+.navbar{
+  padding-left: 0;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+.nav-item{
+  margin: 10px;
+}
+
+.logo{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.logo:hover{
+  color: #ff4c68;
+}
+
+/* Menu Section */
+
+.menu{
+  padding: 2% 10% 5%;
+}
+
+.menu-heading{
+  margin: 5% 0;
+  text-align: center;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+.menu-title{
+  font-family: 'Chewy', cursive;
+  font-size: 3rem;
+}
+
+.menu-row{
+  margin: 5%;
+}
+
+.menu-row-left{
+  text-align: left;
+}
+
+.menu-row-right{
+  text-align: right;
+}
+
+.bowl-pic{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.burger-pic{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pancake-pic{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.drinks-pic{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.white-space-right{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.white-space-left{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.menu-button{
+  text-align: center;
+}
+
+.btn{
+  margin-top: 5%;
+  padding: 2% 10%;
+}
+
+.swiss{
+  margin-right: 10%;
+}
+
+.english{
+  margin-left: 4%;
+}
+
+/* About Section */
+
+.about-text{
+  font-family: 'Hind Siliguri', sans-serif;
+  color: #fff;
+}
+
+/* Footer */
+.media-icon{
+  margin: 20px 10px;
+}
+
+/* Mobile */
+@media (max-width: 1028px){
+
+  .big-heading{
+    font-family: 'Chewy', cursive;
+    font-size: 3rem;
+  }
+
+  .pic{
+    width: 40%;
+  }
+
+}
